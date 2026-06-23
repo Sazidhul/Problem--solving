@@ -5,4 +5,3 @@ if brightness >= threshold:
 else:
    print("OFF")
 
-#https://www.hackerrank.com/contests/ai-ml-module-4-practice-day-1/challenges/b1-smart-light-pilot-threshold/problem?isFullScreen=true
